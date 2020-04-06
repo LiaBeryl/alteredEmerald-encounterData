@@ -1,0 +1,2083 @@
+﻿entry syntax:
+area name
+        encounter type                encounter chance
+                pokemon chance        pokemon name
+chance syntax:
+00 = 100%
+-- = 0%
+01 = 1%
+10 = 10%
+11 = 11%
+
+
+
+
+101 twig walk
+        grass                03
+                45        poochyena
+                20        rattata
+                14        zigzagoon
+                15        wurmple
+                04        snubbull
+                02         lickitung
+        surf                03
+                00        marill
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        squirtle
+                good
+                60        goldeen
+                20        corphish
+                20        squirtle
+                super
+                40        squirtle
+                40        goldeen
+                20        seaking
+102 bridgeway
+        grass                07
+                20        poochyena
+                20        wurmple
+                10        wynaut
+                10        ekans
+                10        bellsprout
+                10        electrike
+                05        nidoran F
+                05        nidoran M
+                04        vulpix
+                04        ralts
+                02        lotad
+        surf                03
+                00        marill
+        headbutt
+        rocksmash
+        fishing
+103 hedge rows
+        grass                07
+                20        zigzagoon
+                20        wingull
+                10        poochyena
+                10        sentret
+                10        caterpie
+                10        volbeat
+                05        weedle
+                05        illumise
+                04        ledyba
+                04        electrike
+                02        lickitung
+        surf                --
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt        00
+                95        beedrill
+                05        pelipper
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                60        wailmer
+104 water's edge
+        grass                07
+                20        wurmple
+                20        poochyena
+                10        pidgey
+                10        hoppip
+                10        tailow
+                10        yanma
+                05        lotad
+                05        surskit
+                04        plusle
+                04        minun
+                02        wingull
+        surf                --
+                69        wingull
+                30        yanma
+                01        pelipper
+        headbutt        00
+                60        beautifly
+                30        pidgey
+                10        yanma
+        rocksmash
+        fishing                11
+                old
+                00        magikarp
+                good
+                00        magikarp
+                super
+                00        magikarp
+petalburg woods
+        grass                07
+                20        wurmple
+                20        paras
+                10        silcoon
+                10        cascoon
+                10        slakoth
+                12        shroomish
+                05        spinarak
+                05        scyther
+                04        smeargle
+                04        murkrow
+        surf
+        headbutt
+        rocksmash
+        fishing
+116 city borders
+        grass                07
+                20        poochyena
+                20        whismur
+                10        pidgey
+                16        seedot
+                20        tailow
+                09        skitty
+                05        eevee
+        surf
+        headbutt        00
+                60        wurmple
+                34        seedot
+                05        beautifly
+                01        tailow
+        rocksmash
+        fishing
+rusturf tunnel
+        grass                03
+                80        whismur
+                10        phanpy
+                10        igglybuff
+        surf
+        headbutt
+        rocksmash
+        fishing
+106 dew beach
+        grass
+        surf                01
+                60        tentacool
+                30        wingull
+                05        shellder
+                05        staryu
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        shellder
+                30        remoraid
+                good
+                60        shellder
+                20        horsea
+                20        remoraid
+                super
+                40        wailmer
+                40        seadra
+                15        qwilfish
+                05        corsola
+granite cave
+1f
+        grass                07
+                30        zubat
+                40        makuhita
+                10        abra
+                10        meditite
+                10        geodude
+        surf
+        headbutt
+        rocksmash
+        fishing
+b1f
+        grass                07
+                25        zubat
+                24        aron
+                10        onix
+                11        mawile
+                11        sableye
+                10        abra
+                05        makuhita
+                04        geodude
+        surf
+        headbutt
+        rocksmash
+        fishing
+b2f
+        grass                07
+                30        zubat
+                26        aron
+                10        onix
+                10        sableye
+                10        mawile
+                04        sneasel
+        surf
+        headbutt
+        rocksmash        19
+                90        nosepass
+                10        geodude
+        fishing
+steve's room
+        grass                03
+                30        zubat
+                50        makuhita
+                10        abra
+                08        aron
+                02        beldum
+        surf
+        headbutt
+        rocksmash
+        fishing
+107 tropic seas
+        grass
+        surf                01
+                60        tentacool
+                30        wingull
+                06        pelipper
+                04        staryu
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        shellder
+                30        staryu
+                good
+                60        shellder
+                20        tentacool
+                20        staryu
+                super
+                60        wailmer
+                40        starmie
+dewford
+        grass
+        surf                01
+                60        tentacool
+                30        shellder
+                06        staryu
+                04        starmie
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        shellder
+                30        staryu
+                good
+                60        shellder
+                20        horsea
+                20        staryu
+                super
+                40        wailmer
+                40        starmie
+                15        seadra
+                05        corsola
+106 dew beach (south)
+        grass                09
+                20        slowpoke
+                22        exeggcute
+                10        azurill
+                10        wingull
+                10        spinda
+                10        tangela
+                05        krabby
+                05        makuhita
+                04        machop
+                04        nosepass
+        surf                01
+                60        tentacool
+                30        wingull
+                05        staryu
+                04        shellder
+                01        starmie
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        remoraid
+                30        horsea
+                good
+                60        horsea
+                20        remoraid
+                20        corsola
+                super
+                40        seadra
+                40        qwilfish
+                20        corsola
+109 slate cove
+        grass
+        surf                --
+                60        tentacool
+                35        wingull
+                04        shellder
+                01        pelipper
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        staryu
+                30        clamperl
+                good
+                60        magikarp
+                20        clamperl
+                20        wailmer
+                super
+                00        wailmer
+slateport
+        grass
+        surf                --
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        clamperl
+                good
+                60        magikarp
+                20        clamperl
+                20        wailmer
+                super
+                00        wailmer
+110 trinity road
+        grass                07
+                20        poochyena
+                24        mareep
+                14        gulpin
+                10        electrike
+                20        pikachu
+                05        grimer
+                05        mankey
+                02        ditto
+        surf                --
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        chinchou
+                good
+                60        magikarp
+                20        chinchou
+                20        wailmer
+                super
+                00        wailmer
+altering cave
+        grass                02
+                50        zubat
+                20        paras
+                10        magnemite
+                10        sneasel
+                10        geodude
+        surf                --
+                00        zubat
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                00        tentacool
+                good
+                80        tentacool
+                20        magikarp
+                super
+                00        tentacool
+fray manor isle
+        grass                07
+                20        poochyena
+                30        rattata
+                10        gulpin
+                10        hoothoot
+                10        raticate
+                05        gastly
+                05        duskull
+                09        murkrow
+                01        electrike
+                01        zigzagoon
+        surf                --
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        chinchou
+                good
+                60        magikarp
+                20        chinchou
+                20        wailmer
+                super
+                00        wailmer
+fray manor
+        grass                05
+                60        rattata
+                10        gastly
+                15        duskull
+                05        spinarak
+                10        zubat
+        surf
+        headbutt
+        rocksmash
+        fishing
+fray manor back room
+        grass                49
+                90        spinarak
+                05        gastly
+                04        duskull
+                01        rattata
+        surf
+        headbutt
+        rocksmash
+        fishing
+117 vivid greens
+        grass                11
+                20        ledyba
+                20        oddish
+                10        drowzee
+                10        beedrill
+                10        butterfree
+                10        chikorita
+                05        sunkern
+                05        bulbasaur
+                04        dunsparse
+                04        roselia
+                02        surskit
+        surf                01
+                64        marill
+                30        surskit
+                05        lotad
+                01        goldeen
+        headbutt
+        rocksmash
+        fishing                39
+                old
+                70        corphish
+                30        goldeen
+                good
+                60        goldeen
+                40        corphish
+                super
+                40        corphish
+                55        goldeen
+                05        seaking
+111 gila desert
+        grass                03
+                20        sandshrew
+                30        trapinch
+                10        sandslash
+                21        cacnea
+                14        gligar
+                05        larvitar
+        surf                01
+                99        marill
+                01        goldeen
+        headbutt
+        rocksmash        07
+                90        geodude
+                10        diglett
+        fishing                11
+                old
+                70        barboach
+                30        mudkip
+                good
+                60        magikarp
+                20        mudkip
+                20        barboach
+                super
+                44        barboach
+                56        marshtomp
+mirage tower
+1f
+        grass                03
+                54        sandshrew
+                34        trapinch
+                10        cacnea
+                02        larvitar
+        surf
+        headbutt
+        rocksmash
+        fishing
+2f
+        grass                03
+                60        sandshrew
+                40        trapinch
+        surf
+        headbutt
+        rocksmash
+        fishing
+3f
+        grass                03
+                60        sandshrew
+                40        trapinch
+        surf
+        headbutt
+        rocksmash
+        fishing
+pa'i canyon
+        grass                07
+                20        zigzagoon
+                20        phanpy
+                10        skiploom
+                10        spearow
+                10        duskull
+                15        natu
+                05        absol
+                04        solrock
+                04        lunatone
+                02        heracross
+        surf
+        headbutt
+        rocksmash        39
+                65        geodude
+                35        nosepass
+        fishing
+pa'i canyon cave
+        grass                01
+                00        baltoy
+        surf
+        headbutt
+        rocksmash
+        fishing
+112 hearthside
+        grass                07
+                20        spearow
+                25        numel
+                14        arbok
+                20        houndour
+                05        machop
+                02        charmander
+                02        chameleon
+        surf
+        headbutt        00
+                60        pineco
+                30        dustox
+                05        heracross
+                04        houndour
+                01        machop
+        rocksmash
+        fishing
+fiery path
+        grass                03
+                30        numel
+                25        koffing
+                14        magby
+                10        torkoal
+                14        slugma
+                02        cyndaquil
+        surf
+        headbutt
+        rocksmash
+        fishing
+113 ashen road
+        grass                07
+                25        nincada
+                30        sandshrew
+                20        cubone
+                10        gligar
+                05        pineco
+                05        zangoose
+                05        skarmory
+        surf
+        headbutt
+        rocksmash
+        fishing
+corgeit chamber
+        grass                07
+                24        sandshrew
+                05        cubone
+                69        unknown
+        surf
+        headbutt
+        rocksmash        11
+                90        diglett
+                10        dugtrio
+        fishing
+114 comet lake
+        grass                07
+                30        swablu
+                20        growlithe
+                10        spearow
+                10        girafarig
+                10        pinsir
+                05        lotad
+                05        chansey
+                04        lombre
+                01        bagon
+                05        seviper
+        surf                01
+                64        marill
+                30        lombre
+                05        lotad
+                01        goldeen
+        headbutt
+        rocksmash        07
+                65        geodude
+                35        diglett
+        fishing                11
+                old
+                70        magikarp
+                30        barboach
+                good
+                60        magikarp
+                20        barboach
+                20        mudkip
+                super
+                55        mudkip
+                40        marshtomp
+                05        barboach
+meteor falls
+room 1
+        grass                11
+                22        clefairy
+                34        zubat
+                15        lunatone
+                15        solrock
+                14        bagon
+        surf                03
+                60        zubat
+                30        golbat
+                05        solrock
+                05        lunatone
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        dratini
+                good
+                60        magikarp
+                20        goldeen
+                20        dratini
+                super
+                55        dragonair
+                40        barboach
+                05        whiscash
+room 2
+        grass                03
+                60        golbat
+                20        solrock
+                15        lunatone
+                05        clefairy
+        surf                01
+                90        golbat
+                10        solrock
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                20        goldeen
+                20        barboach
+                super
+                80        barboach
+                20        whiscash
+room 3
+        grass                03
+                50        golbat
+                20        lunatone
+                20        solrock
+                10        clefairy
+        surf                04
+                90        golbat
+                06        lunatone
+                04        solrock
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                20        goldeen
+                20        barboach
+                super
+                80        barboach
+                20        whiscash
+room 4
+        grass                03
+                42        golbat
+                20        lunatone
+                20        solrock
+                05        shelgon
+                13        bagon
+        surf                01
+                90        golbat
+                05        solrock
+                05        lunatone
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        dratini
+                good
+                60        magikarp
+                20        goldeen
+                20        dratini
+                super
+                55        dragonair
+                40        barboach
+                05        whiscash
+jagged pass
+        grass                07
+                34        numel
+                35        machop
+                17        spoink
+                10        geodude
+                04        torkoal
+        surf
+        headbutt
+        rocksmash        --
+                00        diglett
+        fishing
+magma hideout
+normal rooms
+        grass                11
+                15        graveler
+                30        magcargo
+                55        geodude
+        surf
+        headbutt
+        rocksmash
+        fishing
+drill room
+        grass                03
+                06        golem
+                09        graveler
+                30        magcargo
+                55        geodude
+        surf
+        headbutt
+        rocksmash
+        fishing
+exit stair rooms
+        grass                11
+                04        golem
+                11        graveler
+                30        magcargo
+                55        geodude
+        surf
+        headbutt
+        rocksmash
+        fishing
+115 starfall rim
+        grass                07
+                30        swinub
+                30        spearow
+                15        delibird
+                10        stantler
+                14        snorunt
+                05        sneasel
+                01        fearow
+        surf                01
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt
+        rocksmash        24
+                95        geodude
+                05        diglett
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+105 tropic seas
+        grass
+        surf                --
+                60        tentacool
+                30        wingull
+                05        pelipper
+                04        staryu
+                01        yanma
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+108 cactus's fate
+        grass
+        surf                --
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        staryu
+                good
+                60        magikarp
+                20        tentacool
+                20        staryu
+                super
+                60        wailmer
+                40        starmie
+abandoned ship
+outside
+        grass
+        surf                03
+                60        tentacool
+                30        wingull
+                05        pelipper
+                05        tentacruel
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                60        wailmer
+                40        tentacruel
+inside
+        grass
+        surf                01
+                69        tentacool
+                31        tentacruel
+        headbutt
+        rocksmash
+        fishing                07
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                40        tentacool
+                super
+                80        tentacool
+                20        tentacruel
+new mauville
+1f
+        grass                03
+                91        voltorb
+                91        magnemite
+                08        raikou
+        surf
+        headbutt
+        rocksmash
+        fishing
+b1f
+        grass                03
+                07        porygon
+                10        elekid
+                05        electrode
+                04        magneton
+                60        magnemite
+                14        voltorb
+        surf
+        headbutt
+        rocksmash
+        fishing
+118 jungle gate
+        grass                07
+                20        linoone
+                20        electrike
+                10        gloom
+                10        manectric
+                10        furret
+                10        mightyena
+                05        weepinbell
+                05        fearow
+                06        venonat
+                04        oddish
+        surf                --
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt
+        rocksmash        39
+                00        shuckle
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        carvanha
+                super
+                60        carvanha
+                40        croconaw
+forest rapids
+        grass                11
+                24        linoone
+                20        mightyena
+                10        gloom
+                10        oddish
+                10        aipom
+                10        tropius
+                05        ivysaur
+                05        venonat
+                04        grovyle
+                02        tangela
+        surf                03
+                90        tentacool
+                05        carvanha
+                04        croconaw
+                01        wingull
+        headbutt        00
+                60        aipom
+                30        venonat
+                05        carvanha
+                04        croconaw
+                01        venomoth
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        totodile
+                good
+                60        magikarp
+                20        tentacool
+                20        totodile
+                super
+                41        feraligatr
+                59        carvanha
+119 bulba jungle
+        grass                05
+                20        mightyena
+                20        linoone
+                10        oddish
+                10        gloom
+                10        tropius
+                10        tangela
+                05        aipom
+                05        grovyle
+                04        ivysaur
+                04        castform
+                02        kecleon
+        surf                03
+                90        tentacool
+                05        carvanha
+                04        croconaw
+                01        wingull
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        totodile
+                good
+                60        magikarp
+                20        tentacool
+                20        croconaw
+                super
+                40        feraligatr
+                60        carvanha
+120 glint moor
+        grass                07
+                24        wooper
+                20        mightyena
+                10        skiploom
+                10        poliwhirl
+                10        hypno
+                10        gloom
+                05        quagsire
+                05        poliwag
+                04        azumarill
+                02        kecleon                
+        surf        01
+                69        marill
+                30        lombre
+                01        goldeen
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                20        seaking
+                20        barboach
+                super
+                00        barboach
+scorched slab
+        grass
+        surf                05
+                60        solrock
+                35        marill
+                05        azumarill
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        goldeen
+                30        magikarp
+                good
+                60        goldeen
+                20        magikarp
+                20        barboach
+                super
+                45        barboach
+                40        carvanha
+                15        whiscash
+121 lily terrace
+        grass                07
+                20        zigzagoon
+                20        shuppet
+                10        linoone
+                10        azumarill
+                10        skiploom
+                10        roselia
+                05        hypno
+                05        tauros
+                04        miltank
+                04        wingull
+                02        mr. mime
+        surf                --
+                60        tentacool
+                35        wingull
+                05        pelipper
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+safari zone
+bottom middle (entrance)
+        grass                09
+                40        oddish
+                20        girafarig
+                10        natu
+                10        doduo
+                05        gloom
+                10        wobbuffet
+                05        pikachu
+        surf                03
+                90        psyduck
+                10        golduck
+        headbutt
+        rocksmash
+        fishing                13
+                old
+                00        goldeen
+                good
+                60        goldeen
+                20        slowpoke
+                20        dratini
+                super
+                60        dratini
+                40        goldeen
+bottom left
+        grass                09
+                30        oddish
+                20        girafarig
+                10        tauros
+                10        hoothoot
+                10        doduo
+                05        gloom
+                10        wobbuffet
+                05        pikachu
+        surf                03
+                00        psyduck
+        headbutt
+        rocksmash
+        fishing                13
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                40        goldeen
+                super
+                80        goldeen
+                20        seaking
+top left
+        grass                09
+                30        rhyhorn
+                30        oddish
+                10        hoothoot
+                15        gloom
+                05        doduo
+                04        noctowl
+                05        pinsir
+                01        dodrio
+        surf                03
+                95        psyduck
+                05        golduck
+        headbutt
+        rocksmash
+        fishing                13
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                40        goldeen
+                super
+                80        goldeen
+                20        seaking
+top middle
+        grass                09
+                30        phanpy
+                30        oddish
+                10        natu
+                15        gloom
+                05        doduo
+                04        xatu
+                05        kangaskhan
+                01        dodrio
+        surf
+        headbutt
+        rocksmash        09
+                00        geodude
+        fishing
+top right
+        grass                09
+                30        aipom
+                30        teddiursa
+                10        sunkern
+                10        ledyba
+                05        hoothoot
+                05        pineco
+                05        houndour
+                05        miltank
+        surf
+        headbutt
+        rocksmash        09
+                00        shuckle
+        fishing
+bottom right
+        grass                09
+                30        sunkern
+                30        mareep
+                10        aipom
+                10        spinarak
+                05        hoothoot
+                05        delibird
+                05        stantler
+                05        gligar
+        surf                09
+                60        wooper
+                35        marill
+                04        azumarill
+                01        quagsire
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                40        remoraid
+                super
+                55        remoraid
+                40        goldeen
+                04        seaking
+                01        octillery
+122 censer lake
+        grass
+        surf                --
+                60        tentacool
+                35        wingull
+                04        skiploom
+                01        pelipper
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        qwilfish
+                super
+                40        sharpedo
+                40        qwilfish
+                20        wailmer
+mt pyre
+1f-3f
+        grass                03
+                00        shuppet
+        surf
+        headbutt
+        rocksmash
+        fishing
+4f
+        grass                03
+                85        shuppet
+                13        duskull
+                02        gastly
+        surf
+        headbutt
+        rocksmash
+        fishing
+5f
+        grass                03
+                80        shuppet
+                10        duskull
+                10        gastly
+        surf
+        headbutt
+        rocksmash
+        fishing
+6f
+        grass                03
+                60        shuppet
+                24        duskull
+                15        gastly
+                01        haunter
+        surf
+        headbutt
+        rocksmash
+        fishing
+outside
+        grass                03
+                50        shuppet
+                10        absol
+                20        meditite
+                05        meditite
+                05        combusken
+                10        wingull
+        surf
+        headbutt
+        rocksmash
+        fishing
+peak
+        grass                03
+                44        shuppet
+                10        vulpix
+                24        duskull
+                15        misdreavus
+                07        chimecho
+        surf
+        headbutt
+        rocksmash
+        fishing
+123 scaber path
+        grass                07
+                20        spearow
+                20        electrike
+                10        zigzagoon
+                10        manectric
+                11        teddiursa
+                10        weepinbell
+                05        ponyta
+                05        houndour
+                04        fearow
+                04        oddish
+                01        wingull
+        surf                --
+                60        tentacool
+                35        wingull
+                04        skiploom
+                01        pelipper
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        goldeen
+                super
+                81        wailmer
+                15        qwilfish
+                04        seaking
+124 open waters
+        grass
+        surf                --
+                60        tentacruel
+                30        wingull
+                06        pelipper
+                04        seel
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                60        wailmer
+underwater
+        grass
+        surf                01
+                60        clamperl
+                30        lanturn
+                10        relicanth
+        headbutt
+        rocksmash
+        fishing
+mossdeep
+        grass
+        surf                --
+                60        tentacruel
+                31        pelipper
+                05        seel
+                04        lapras
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                60        wailmer
+125 ice floe
+        grass
+        surf                01
+                60        tentacruel
+                30        seel
+                06        dewgong
+                04        lapras
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        seel
+                good
+                60        magikarp
+                20        seel
+                20        wailmer
+                super
+                40        sharpedo
+                55        dewgong
+                05        wailmer
+shoal cave
+entrance
+        grass                03
+                45        zubat
+                30        sealeo
+                10        seel
+                10        spheal
+                05        golbat
+        surf                01
+                60        tentacool
+                30        zubat
+                05        sealeo
+                05        spheal
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+bridge room
+        grass                03
+                45        zubat
+                35        sealeo
+                10        seel
+                05        golbat
+                05        spheal
+        surf                01
+                60        tentacool
+                30        zubat
+                05        sealeo
+                05        spheal
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+strength room
+        grass                03
+                45        zubat
+                34        sealeo
+                10        seel
+                06        spheal
+                05        golbat
+        surf
+        headbutt
+        rocksmash
+        fishing
+ice heal room
+        grass                03
+                45        zubat
+                20        sealeo
+                10        seel
+                20        spheal
+                05        golbat
+        surf
+        headbutt
+        rocksmash
+        fishing
+frozen room
+        grass                03
+                30        zubat
+                20        seel
+                10        spheal
+                10        sealeo
+                10        smoochum
+                05        glalie
+                10        sneasel
+                05        snorunt
+        surf
+        headbutt
+        rocksmash
+        fishing
+126 soot volcano
+        grass
+        surf                --
+                60        tentacruel
+                30        pelipper
+                09        wingull
+                01        lapras
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                60        wailmer
+underwater
+        grass
+        surf                01
+                60        clamperl
+                30        lanturn
+                10        relicanth
+        headbutt
+        rocksmash
+        fishing
+sootopolis
+        grass                07
+                20        pelipper
+                20        linoone
+                15        ludicolo
+                14        roselia
+                10        manectric
+                10        masquerain
+                05        jumpluff
+                05        yanma
+                01        yanma
+        surf                --
+                65        magikarp
+                30        lotad
+                05        surskit
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        luvdisc
+                good
+                60        magikarp
+                40        luvdisc
+                super
+                40        magikarp
+                60        luvdisc
+cave of origin
+entrance
+1f
+        grass                01
+                90        golbat
+                10        misdreavus
+        surf
+        headbutt
+        rocksmash
+        fishing
+b1f & b2f
+        grass                01
+                65        golbat
+                10        misdreavus
+                25        sableye
+        surf
+        headbutt
+        rocksmash
+        fishing
+127 archipelago
+        grass
+        surf                --
+                60        tentacruel
+                30        pelipper
+                05        wingull
+                04        seel
+                01        cloyster
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                60        wailmer
+underwater
+        grass
+        surf                11
+                60        clamperl
+                30        lanturn
+                10        relicanth
+        headbutt
+        rocksmash
+        fishing
+128 pillar isle
+        grass                11
+                40        slowpoke
+                20        pelipper
+                10        farfetch'd
+                10        exeggcute
+                05        exeggutor
+                10        slowbro
+                04        kingler
+                01        slowking
+        surf                --
+                60        tentacruel
+                30        pelipper
+                05        mantine
+                04        seel
+                01        wailmer
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        remoraid
+                good
+                60        magikarp
+                20        octillery
+                20        wailmer
+                super
+                40        sharpedo
+                55        wailmer
+                04        octillery
+                01        wailord
+seafloor cavern
+entrance
+        grass
+        surf                01
+                60        tentacool
+                35        zubat
+                05        golbat
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+normal cave rooms
+        grass                01
+                40        zubat
+                60        golbat
+        surf
+        headbutt
+        rocksmash
+        fishing
+rapids rooms
+        grass                --
+                10        golbat
+                90        zubat
+        surf                01
+                60        tentacruel
+                40        golbat
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                00        wailmer
+strength puzzle room
+        grass                --
+                10        golbat
+                90        zubat
+        surf
+        headbutt
+        rocksmash
+        fishing
+129 crinkle rock
+        grass
+        surf                --
+                60        tentacruel
+                30        pelipper
+                05        mantine
+                05        wailmer
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                        70        magikarp
+                        30        remoraid
+                good
+                        60        magikarp
+                        20        octillery
+                        20        wailmer
+                super
+                        40        sharpedo
+                        15        octillery
+                        45        wailmer
+130 frontier sea
+        grass                07
+                00        wynaut
+        surf                01
+                60        tentacruel
+                31        pelipper
+                09        mantine
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        remoraid
+                20        wailmer
+                super
+                40        sharpedo
+                45        wailmer
+                05        octillery
+131 atlas rocks
+        grass
+        surf                --
+                60        tentacruel
+                34        pelipper
+                05        mantine
+                01        wingull
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        remoraid
+                20        wailmer
+                super
+                50        wailmer
+                40        sharpedo
+                05        corsola
+sky pillar
+1f
+        grass                03
+                30        sableye
+                47        golbat
+                10        banette
+                05        dusclops
+                04        misdreavus
+                04        murkrow
+        surf
+        headbutt
+        rocksmash
+        fishing
+3f
+        grass                03
+                20        sableye
+                40        golbat
+                10        dragonair
+                10        murkrow
+                05        misdreavus
+                09        dusclops
+                04        banette
+                02        altaria
+        surf
+        headbutt
+        rocksmash
+        fishing
+5f
+        grass                03
+                30        sableye
+                30        golbat
+                10        dragonair
+                14        banette
+                09        dusclops
+                07        altaria
+        surf
+        headbutt
+        rocksmash
+        fishing
+pacifidlog
+        grass
+        surf                --
+                60        tentacool
+                34        pelipper
+                15        corsola
+                01        mantine
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        corsola
+                good
+                60        magikarp
+                20        remoraid
+                20        corsola
+                super
+                40        sharpedo
+                40        corsola
+                20        wailmer
+132 the rapids
+        grass
+        surf                --
+                60        tentacruel
+                34        pelipper
+                05        wingull
+                01        corsola
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                41        wailmer
+                15        seadra
+                04        corsola
+133 stormeye bay & 134 six points
+        grass
+        surf                --
+                60        tentacruel
+                31        pelipper
+                05        wingull
+                04        seadra
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                45        wailmer
+                15        seadra
+135 tar pit
+        grass                11
+                20        machoke
+                24        linoone
+                10        magneton
+                10        bayleef
+                10        beldum
+                10        swalot
+                05        ditto
+                05        graveler
+                06        manectric
+        surf                --
+                60        tentacruel
+                35        pelipper
+                05        wingull
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                20        tentacool
+                20        wailmer
+                super
+                40        sharpedo
+                55        wailmer
+                05        seadra
+ever grande
+        grass
+        surf                --
+                60        tentacool
+                35        wingull
+                05        luvdisc
+        headbutt
+        rocksmash
+        fishing
+victory road
+upper
+        grass                07
+                24        fearow
+                25        hariyama
+                11        aggron
+                14        exploud
+                10        hypno
+                10        manectric
+                05        machoke
+                01        medicham
+        surf
+        headbutt
+        rocksmash
+        fishing                03
+                old
+                70        magikarp
+                30        tentacool
+                good
+                60        magikarp
+                40        wailmer
+                super
+                00        wailmer
+middle (entrance)
+        grass                03
+                20        crobat
+                25        hariyama
+                10        aggron
+                10        medicham
+                11        golem
+                10        houndoom
+                05        steelix
+                04        magcargo
+                05        mawile
+        surf
+        headbutt
+        rocksmash                07
+                70        graveler
+                30        geodude
+        fishing
+lower
+        grass                07
+                20        crobat
+                20        walrein
+                11        mawile
+                10        medicham
+                10        steelix
+                10        machamp
+                05        golbat
+                05        sableye
+                04        magcargo
+                05        glalie
+        surf                01
+                70        golbat
+                30        sealeo
+        headbutt
+        rocksmash
+        fishing                11
+                old
+                70        magikarp
+                30        goldeen
+                good
+                60        magikarp
+                20        goldeen
+                20        seel
+                super
+                80        seel
+                20        dewgong
+desert underpass
+        grass                03
+                54        ditto
+                20        claydol
+                10        loudred
+                11        exploud
+                05        lickitung
+        surf
+        headbutt
+        rocksmash
+        fishing
+artisan cave
+        grass                03
+                00        smeargle
+        surf
+        headbutt
+        rocksmash
+        fishing
+gauntlet island
+entrance
+        grass                21
+                40        wingull
+                10        graveler
+                10        ursaring
+                10        shuppet
+                10        rhyhorn
+                05        nosepass
+                05        plusle
+                04        minun
+                05        pelipper
+                01        unknown
+        surf                11
+                90        wingull
+                10        pelipper
+        headbutt
+        rocksmash        00
+                30        dugtrio
+                70        graveler
+        fishing
+top middle
+        grass                11
+                20        absol
+                30        raticate
+                10        rhyhorn
+                10        donphan
+                10        poliwhirl
+                05        shuppet
+                05        magnemite
+                04        banette
+                04        pelipper
+                01        rhydon
+                01        miltank
+        surf                --
+                00        no pokemon
+        headbutt
+        rocksmash
+        fishing
+top left
+        grass        21
+                20        stantler
+                20        swinub
+                10        jynx
+                10        sneasel
+                10        chimecho
+                10        absol
+                05        piloswine
+                05        wobbuffet
+                04        skarmory
+                04        lairon
+                02        wynaut
+        surf
+        headbutt
+        rocksmash
+        fishing
+bottom left
+        grass                15
+                20        spearow
+                20        sandshrew
+                10        dugtrio
+                10        bayleef
+                10        trapinch
+                10        dunsparse
+                05        rhyhorn
+                05        nuzleaf
+                04        doduo
+                04        sandslash
+                01        fearow
+                01        rhydon
+        surf                --
+                00        no pokemon
+        headbutt
+        rocksmash        00
+                00        dugtrio
+        fishing
+bottom middle
+        grass                13
+                30        zigzagoon
+                20        spearow
+                10        geodude
+                20        bulbasaur
+                05        houndour
+                05        aron
+                04        lickitung
+                05        linoone
+                01        fearow
+        surf                07
+                90        wingull
+                10        pelipper
+        headbutt
+        rocksmash
+        fishing
+bottom right
+        grass                19
+                20        spearow
+                20        wooper
+                10        nidoran M
+                10        nidoran F
+                10        teddiursa
+                10        dunsparse
+                05        wingull
+                05        exeggcute
+                04        nidorino
+                04        nidorina
+                01        exeggutor
+                01        fearow
+        surf                09
+                90        wingull
+                10        pelipper
+        headbutt
+        rocksmash        00
+                00        graveler
+        fishing
+top right
+        grass                19
+                20        surskit
+                20        psyduck
+                10        electrike
+                10        skitty
+                10        zigzagoon
+                11        yanma
+                05        shroomish
+                05        pidgeotto
+                04        manectric
+                04        masquerain
+                01        golduck
+        surf                07
+                60        psyduck
+                30        goldeen
+                05        golduck
+                05        corphish
+        headbutt
+        rocksmash
+        fishing
